@@ -18,4 +18,4 @@ https://tranquil-stream-9498.herokuapp.com/
 
 ## Who do I talk to? ##
 
-* Repo owner or admin
+* somebody else
